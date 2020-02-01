@@ -16,3 +16,18 @@ Built during the **[Global Game Jam 2020](https://globalgamejam.org/)**, using:
 - Vue
 - PIXI
 - AirConsole
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
